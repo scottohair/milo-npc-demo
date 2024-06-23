@@ -101,7 +101,19 @@ Integrating OpenAI with Unreal Engine allows developers to bring their NPCs to l
 
 ### Sample Integration Diagram
 
-![Integration Diagram](https://github.com/scottohair/milo-npc-demo/blob/main/diagram.png)
+```mermaid
+flowchart TD
+    A[Start] --> B[Setup Unreal Engine]
+    B --> C[Install HTTP Plugin]
+    C --> D[Configure OpenAI API]
+    D --> E[Create HTTP Request in Unreal]
+    E --> F[Set Request Headers]
+    F --> G[Send Request to OpenAI]
+    G --> H[Receive and Parse Response]
+    H --> I[Extract Text Response]
+    I --> J[Use Response in NPC Dialogue]
+    J --> K[End]
+
 
 ## Conclusion
 
