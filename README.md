@@ -1,7 +1,7 @@
 
 # AI Chatbot NPC API Demonstration
 
-![AI Chatbot](./An_artistic_image_of_an_AI_chatbot_with_a_blend_of.png)
+![AI Chatbot](./header.png)
 
 ## Overview
 
@@ -101,7 +101,7 @@ Integrating OpenAI with Unreal Engine allows developers to bring their NPCs to l
 
 ### Sample Integration Diagram
 
-![Integration Diagram](./A_visually_appealing_integration_diagram_showing_t.png)
+![Integration Diagram](./diagram.png)
 
 ## Conclusion
 
@@ -113,4 +113,4 @@ This repository demonstrates how powerful AI chatbots can be integrated into vid
 
 For more information, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
 
-![Footer Image](./A_footer_image_featuring_space,_alien,_and_Egyptia.png)
+![Footer Image](./footer.png)
