@@ -1,7 +1,7 @@
 
 # AI Chatbot NPC API Demonstration
 
-![AI Chatbot](./header.png)
+![AI Chatbot](https://github.com/scottohair/milo-npc-demo/blob/main/header.png)
 
 ## Overview
 
@@ -101,7 +101,7 @@ Integrating OpenAI with Unreal Engine allows developers to bring their NPCs to l
 
 ### Sample Integration Diagram
 
-![Integration Diagram](./diagram.png)
+![Integration Diagram](https://github.com/scottohair/milo-npc-demo/blob/main/diagram.png)
 
 ## Conclusion
 
@@ -113,4 +113,4 @@ This repository demonstrates how powerful AI chatbots can be integrated into vid
 
 For more information, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
 
-![Footer Image](./footer.png)
+![Footer Image](https://github.com/scottohair/milo-npc-demo/blob/main/footer.png)
