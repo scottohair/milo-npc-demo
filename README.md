@@ -126,4 +126,4 @@ This repository demonstrates how powerful AI chatbots can be integrated into vid
 
 For more information, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
 
-![Footer Image](https://github.com/images/scottohair/milo-npc-demo/blob/main/footer.png)
+![Footer Image](https://github.com/scottohair/images/milo-npc-demo/blob/main/footer.png)
