@@ -1,7 +1,7 @@
 
 # AI Chatbot NPC API Demonstration
 
-![AI Chatbot](https://github.com/scottohair/milo-npc-demo/blob/main/header.png)
+![AI Chatbot](https://github.com/scottohair/milo-npc-demo/blob/main/chatbot.png)
 
 ## Overview
 
